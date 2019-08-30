@@ -1,0 +1,97 @@
+check-in:2019-09-02
+check-out:2019-09-03
+============Hotel Interurban============
+address:223 Andover Park E, Tukwila, WA, 98188, United States
+3rd party price:$139
+site price:S/O
+
+============Holiday Inn Express & Suites Seattle South - Tukwila============
+address:90 Andover Park East, Tukwila, WA, 98188, United States
+3rd party price:$169
+site price:S/O
+
+============Courtyard by Marriott Seattle Southcenter============
+address:400 Andover Park W, Tukwila, WA, 98188, United States
+3rd party price:$149
+site price:$146
+
+============Comfort Suites Airport============
+address:7200 Fun Center Way, Tukwila, WA, 98188, United States
+3rd party price:$129
+site price:S/O
+
+============Ramada by Wyndham Tukwila Southcenter============
+address:15901 W Valley Hwy, Tukwila, WA, 98188, United States
+3rd party price:$134
+site price:S/O
+
+============DoubleTree Suites by Hilton Seattle Airport - Southcenter============
+address:16500 Southcenter Pkwy, Tukwila, WA, 98188, United States
+3rd party price:$133
+site price:$130
+
+============WoodSpring Suites Seattle Tukwila============
+address:
+3rd party price:S/O
+site price:S/O
+
+============Courtyard by Marriott Seattle Sea-Tac Area============
+address:
+3rd party price:S/O
+site price:$126
+
+============Residence Inn Seattle South/Tukwila============
+address:
+3rd party price:S/O
+site price:$126
+
+============Embassy Suites by Hilton Seattle Tacoma International Airport============
+address:
+3rd party price:S/O
+site price:$137
+
+============Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila============
+address:
+3rd party price:S/O
+site price:$155
+
+============Home2 Suites by Hilton Seattle Airport============
+address:
+3rd party price:S/O
+site price:$116
+
+============Hilton Garden Inn Seattle/Renton============
+address:
+3rd party price:S/O
+site price:$106
+
+============Hampton Inn Seattle/Southcenter============
+address:
+3rd party price:S/O
+site price:$130
+
+============Hampton Inn & Suites Seattle-Airport/28th Ave============
+address:
+3rd party price:S/O
+site price:$121
+
+============Hampton Inn Seattle/Airport============
+address:
+3rd party price:S/O
+site price:$175
+
+============Sleep Inn - SeaTac Airport============
+address:
+3rd party price:S/O
+site price:S/O
+
+============Comfort Inn & Suites Sea-Tac Airport============
+address:
+3rd party price:S/O
+site price:S/O
+
+============Ramada by Wyndham SeaTac Airport North============
+address:
+3rd party price:S/O
+site price:S/O
+
