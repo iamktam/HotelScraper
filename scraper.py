@@ -263,7 +263,7 @@ options.add_argument("no-cors")
 
 # Add headless browser
 #options.add_argument("headless")
-driver = webdriver.Chrome('selenium/webdriver/chromedriver.exe', options=options)
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 output  = open("output.txt", "w")
 hotelDict = scrapeHotelsCom(checkin, checkout, driver)
 for id, name in TRACKED_HOTELS.items():
