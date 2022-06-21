@@ -21,7 +21,7 @@ idna==2.8
 incremental==17.5.0
 jdcal==1.4.1
 lxml==4.4.0
-numpy==1.17.0
+numpy==1.22.0
 openpyxl==2.6.3
 pandas==0.25.0
 parsel==1.5.2
